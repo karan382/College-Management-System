@@ -31,4 +31,6 @@ To login into Django site admin, go to the browser, and enter the url http://127
 ## Login
 1. Django site admin credentials: <br/> username: admin <br/> password: project123
 
-2. For user credentials, refer to the credential.txt file
+2. User credentials:
+   * ***For Teacher:*** <br/> username: dr._as <br/> password: mnbvcxzz
+   * ***For Student:*** <br/> username: aahlaad_001 <br/> password: mnbvcxzz
