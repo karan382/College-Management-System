@@ -10,10 +10,19 @@
 * HTML
 * CSS
 
+## Installation
+Install Python, and Django in the system.
+
+```python
+pip install django
+```
+
 ## Usage
 Go to the main/CMS folder and run the code below in the terminal.
 
-``` python manage.py runserver ```
+```python
+python manage.py runserver
+```
 
 Then go to the browser and enter the url http://127.0.0.1:8000/
 
